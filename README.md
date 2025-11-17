@@ -1,4 +1,4 @@
-![image_alt](https://github.com/Titoamaya2912/Recomendador_de_peliculas/blob/90b57d08531d5fa28eceb986060ab0b16978dde3/Banner%20Recomendador%20de%20Peliculas.jpg)
+![image_alt](https://github.com/Amaya2912/deteccion_temprana_de_enfermedades_cutaneas/blob/b26207b28522373f771eaaf984cf94df171e1695/DETECCI%C3%93N%20DE%20ENFERMEDADES%20CUTANEAS.png)
 
 
 # deteccion temprana de enfermedades cutaneas
