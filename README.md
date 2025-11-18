@@ -8,3 +8,6 @@ Jhon Anderson Amaya Lopez, Sergio Andres Barón Rivera
 Dataset: El dataset está compuesto por un poco mas de 10000 imagenes relacionadas con imágenes dermatoscópicas de siete tipos de lesiones cutáneas, incluyendo melanoma, nevus y queratosis. Las imágenes provienen de múltiples fuentes clínicas, presentan variedad en color, textura y tamaño, y están acompañadas de metadatos como diagnóstico, tipo de lesión y ubicación en el cuerpo.
 
 Link de descarga: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
+
+Modelos utilizados: DNN, CNN Manual, CNN con Transfer Learning (ResNet50)
+Link del colab: https://colab.research.google.com/drive/14DQV05QlDeBbGXq1OQDGURBQ3t_p2S7j
