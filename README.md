@@ -9,8 +9,10 @@ Dataset: El dataset está compuesto por un poco mas de 10000 imagenes relacionad
 
 Link de descarga: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
 
-Modelos utilizados: DNN, CNN Manual, CNN con Transfer Learning (ResNet50)
+Modelos utilizados: DNN, CNN Manual, CNN con Transfer Learning (MobileNet), Autoencoder, Anomalias
 
 Link del colab: https://colab.research.google.com/drive/14DQV05QlDeBbGXq1OQDGURBQ3t_p2S7j
 
 Link del video: https://www.youtube.com/watch?v=Xsd21ZBQrP8
+
+Link de las diapositivas: https://www.canva.com/design/DAGzEIFpznI/uyKPtaYira_y2yh82useIw/edit
