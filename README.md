@@ -12,3 +12,5 @@ Link de descarga: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:1
 Modelos utilizados: DNN, CNN Manual, CNN con Transfer Learning (ResNet50)
 
 Link del colab: https://colab.research.google.com/drive/14DQV05QlDeBbGXq1OQDGURBQ3t_p2S7j
+
+Link del video: https://www.youtube.com/watch?v=Xsd21ZBQrP8
